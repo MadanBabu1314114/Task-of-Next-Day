@@ -15,10 +15,11 @@ Modern Flutter App: Paginated User List with Favorites, Glassmorphism, and Anima
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/main_list.png" width="250" />
-  <img src="screenshots/favorites.png" width="250" />
-</p>
+
+https://github.com/user-attachments/assets/f2fb413f-15de-4d07-9a35-7f07c7a72120
+
+
+ 
 
 ## Getting Started
 
